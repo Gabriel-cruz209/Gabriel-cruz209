@@ -1,16 +1,34 @@
-## Hi there 👋
+## 👨‍💻 Sobre mim
 
-<!--
-**Gabriel-cruz209/Gabriel-cruz209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ - 🎓 Estudante do Senai em Desenvolvimento de Sistemas, ano de conclusão 2026
 
-Here are some ideas to get you started:
+- 💻 Interesse em desenvolvimento web e sistemas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🚀 Focado em aprender e aplicar conhecimentos em projetos práticos
+
+- 📚 Sempre buscando evoluir em programação e novas tecnologias
+
+## 🛠️ Tecnologias e Ferramentas
+
+- Linguagens: JavaScript, PHP, HTML, CSS, C++, Dart, Python
+
+- Banco de dados: MySQL
+
+- Frameworks e ferramentas: Flutter, Git e GitHub
+
+- Outros: Lógica de programação e desenvolvimento de projetos
+
+## 📂 Projetos do Perfil
+
+- Desenvolvimento de projetos acadêmicos e pessoais
+
+- Criação de sistemas web e aplicações
+
+## 🎯 Objetivo Profissional
+
+- Atuar na área de desenvolvimento de software
+
+- Adquirir experiência prática e contribuir em projetos reais
+
+- Evoluir como desenvolvedor e profissional de TI
+
